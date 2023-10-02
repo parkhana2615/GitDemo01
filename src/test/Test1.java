@@ -5,7 +5,7 @@ public class Test1 {
 		 
 		String name = "김태희";  
 		int score = 75; 
-		char grade = ' ';
+		char grade = ' '; 
 		
 		if ((score>=90)&&(score<=100)) {
 			grade = 'A';
