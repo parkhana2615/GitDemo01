@@ -1,0 +1,27 @@
+github는 크롬창을 2개 띄우고 각각의 깃허브를 연결해도 최종 로그인한 계정으로 두창이 바뀜 
+
+---------------
+[ 구글 ] 
+parkhana2615@gmail.com
+~1qaz2wsx
+
+[ 깃허브 ]
+parkhana2615@gmail.com
+비번 => 1sunrise1sunrise
+username => parkhana2615
+token => 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
+
+github url => 
+https://github.com/parkhana2615/GitDemo01.git
+
+---------------
+[ 구글 ] 
+parkhana2615.branchA@gmail.com
+비번 => ~1qaz2wsx
+
+[ 깃허브 ]
+parkhana2615.branchA@gmail.com
+비번 => 1sunrise1sunrise
+
+username => parkBranchX
+Verification code: 889603
